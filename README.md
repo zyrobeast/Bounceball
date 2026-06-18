@@ -27,13 +27,13 @@ Although the code reflects my beginner experience, it represents an important mi
 ## Technologies Used
 
 * Java
-* Java AWT/Swing (if applicable)
+* Java AWT/Swing
 * Basic 2D graphics rendering
   
 ## Screenshots
 
-### Gameplay
-![Gameplay](screenshots/gameplay.png)
+### Menu
+![Menu](screenshots/menu.png)
 
 ### Level 1
 ![Level 1](screenshots/level1.png)
